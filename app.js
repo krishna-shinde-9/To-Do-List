@@ -103,7 +103,7 @@ addBtn.addEventListener('click', (e) => {
         d = '🟢 Low'
 
     }
-
+  
     addInput(takeInput.value, `( ${dueDate.value} ) `, d)
 })
 
